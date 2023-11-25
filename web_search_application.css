@@ -3,7 +3,12 @@
 .main-container {
   font-family: "Roboto";
 }
-
+.logo-head{
+  font-size: 40px;
+  font-weight: 600;
+  text-align: center;
+  padding: 5px;
+}
 .wiki-search-header {
   border-width: 1px;
   border-style: solid; 
